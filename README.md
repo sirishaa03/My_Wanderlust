@@ -1,5 +1,5 @@
 # Wanderlust
-### A full-stack web app built in 4 weeks as Hackbright Fellowship final project
+### A full-stack web app built in 4 weeks 
 <img src="/static/css/Wanderlust-homepage.jpg" alt="Wanderlust Homepage screenshot">
 #### Project Overview
 Wanderlust is an interactive application for everyone from world explorers to family vacationers to businesspeople. It organizes your travel plans in one convenient location for you to easily access at anytime.  Simply forward your confirmation emails and Wanderlust will take the parsed email details to aggregate all flight, hotel, car rental, public transportation, event and meeting confirmations into a complete and detailed itinerary.
